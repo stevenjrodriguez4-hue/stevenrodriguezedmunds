@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/stevenrodriguezedmunds/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/stevenrodriguezedmunds/osTicket-Ticket-Lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/stevenrodriguez4-hue/osTicket-Ticket-Lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/stevenrodriguezedmunds/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/stevenrodriguezedmunds/azure-network-protocols)
